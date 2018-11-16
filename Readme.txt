@@ -1,5 +1,5 @@
 
-Download the trained model from ?? in save file.(https://drive.google.com/file/d/1uUR6NRK5m4CF4o6FOz9-wW-8Z8hWN0Eh/view?fbclid=IwAR2Z1MZPmqMy4sgKj-HQHCdbXtaJBSxLVq0L04sD7QvqcCmhfBgSKJQc_UY)
+Download the trained model from https://drive.google.com/file/d/1uUR6NRK5m4CF4o6FOz9-wW-8Z8hWN0Eh/view?fbclid=IwAR2Z1MZPmqMy4sgKj-HQHCdbXtaJBSxLVq0L04sD7QvqcCmhfBgSKJQc_UY in save file.
 
 Change load_saver in the bottom of model.py to 1 to load trained model.
 
